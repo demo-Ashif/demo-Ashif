@@ -2,44 +2,42 @@
 Ashif Mujtoba</a></h1>
 <h3 align="center">Mobile App developer (Native Android & Flutter)</h3>
 
-As a mobile app developer with over **8** years of experience in the software industry, I specialize in developing applications for Native Android and Flutter. Committed to create visually appealing mobile apps with challenging features, I prioritize writing scalable, readable, and maintainable code. I strive to constantly improve my skills.
+As a mobile app developer with over **8** years of experience, I specialize in developing applications for Native Android and Flutter. Committed to create visually appealing mobile apps with challenging features, prefer to prioritize writing scalable, readable, and maintainable code. Striving to constantly improve my skills is something I keep reminding myself.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demo-Ashif&label=Profile%20views&color=0e75b6&style=flat" alt="demo-Ashif"/></p>
 
 ## Skills I Know:
-- **📜 Languages:** 
+ - **📜 Languages:** 
     <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,dart,lua" /></a></p>
-- **🔬 Frameworks 🗳 UI & Tools:**
-    <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma,xd,postman" /></a></p>
+ - **🔬 Frameworks 🗳 Tools:** `Android SDK` `Flutter` `Gradle` `Git` `Postman` `Firebase` `Jetpack` `Profiler` `Flutter Inspector`
+ - **📚 Libraries:** `Retrofit` `Glide` `Coil` `Room` `Dagger-Hilt` `RxJava` `JUnit` `Mockito`
  - 🎡 **Software development ecosystem:**
-   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-   - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+   - **📁 Code repository:** • [BitBucket](https://bitbucket.org/product) • [Gitlab](https://gitlab.com/)
+   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) 
+   - **🗂 CI/CD:** • [Bitrise](https://bitrise.io/why/features/mobile-devops) • [Github Actions](https://github.com/features/actions) 
 - 🧙‍♂️ **Coding pattern & principles:**
-   - **⚒ Patterns:**  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
+   - **⚒ Patterns:**  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) • [MVI](https://medium.com/swlh/mvi-architecture-with-android-fcde123e3c4a) 
   
   
 - **🏗️ Code editors:**
-  <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,dart,lua" /></a></p>
+  <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,androidstudio" /></a></p>
 
 ## Soft Skills:
-- Performing effective communication with onshore and offshore clients and development teams. Understanding client needs and providing consultancy on conceptualizing effective solutions.
-- Designing product vision, feasibility analysis, and technical roadmap.
-- Mentoring young teammates and providing coding insights and knowledge to solve problems.
-Taking calculated risks, conflict resolution, and keeping stakeholders in proper sync.
+- Effective communication with clients and development teams.
+- Keeping stakeholders, business and development team in proper sync.
+- Organising any programme with proper roadmap and mentoring young team members about coding, life.
 
 # What companies have I worked for?
-- [SELISE Digital Platforms](https://selisegroup.com/)
-- [3S-Software, Service & Solution](https://3ssoftltd.com)
-- [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
-- [Computer Ease Ltd](https://www.celimited.com/)
+- [Letswork.io](https://letswork.io/)
+- [Footsapp Ltd](https://www.footsapp.com/)
+- [Swap BD Ltd](https://swap.com.bd/)
 
-# What's weird about me?  
-  - 😎 I am an **ambivert**.
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** and this highly disrupts my sleeping cycles.
+
+# What's more about me?  
+  - 😎 I am pro **Fifa Gamer** and most probably will beat you.
+  - 🧐 I love **Game Development** and Gaming Industry.
+  - ⏱️ I drink a lot of ☕ **coffee** if its near to me.
+  - 😅 I understand language of **Film and Filmmaking**
 
 
 <!--Github Stats-->
@@ -57,10 +55,7 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 <p align="center">
 	<a href="mailto:nmujtoba@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/demo-Ashif"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="https://www.linkedin.com/in/ashifmujtoba/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </p>
 
