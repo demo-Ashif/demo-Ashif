@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ashifmujtoba/" target="blank">
 Ashif Mujtoba</a></h1>
-<h3 align="center">Mobile App developer (Native Android & Flutter)</h3>
+<h3 align="center">Engineering Lead - Mobile App development expert</h3>
 
-As a mobile app developer with over **9** years of experience, I specialize in developing applications for Native Android and Flutter. Committed to create visually appealing mobile apps with challenging features, prefer to prioritize writing scalable, readable, and maintainable code. Striving to constantly improve my skills is something I keep reminding myself.
+Hi, I'm Ashif. I'm an app developer with 9 years of experience in Android and Flutter. I'm also a film activist and founder of GameOf11, Bangladesh's first DFS platform. I enjoy mentoring and conducting Flutter app development courses. Currently, I'm focused on improving my skills in system design and DevOps engineering.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demo-Ashif&label=Profile%20views&color=0e75b6&style=flat" alt="demo-Ashif"/></p>
 
@@ -37,7 +37,7 @@ As a mobile app developer with over **9** years of experience, I specialize in d
   - 😎 I am pro **Fifa Gamer** and most probably will beat you.
   - 🧐 I love **Game Development** and Gaming Industry.
   - ⏱️ I drink a lot of ☕ **coffee** if its near to me.
-  - 😅 I understand language of **Film and Filmmaking**
+  - 😅 I am trying to learn language of **Film and Filmmaking**
 
 
 <!--Github Stats-->
